@@ -1,10 +1,12 @@
-## Hi there 👋
+# welcome!
+### first, the introduction
+hello there, it's "Mva"/"EM-VEE-AY" and this is my readme.
 
+empathy, kindness and sensitivity are the keys to be "Mva". it's because i have got all of them.
+
+it's important to note that i have a second (and first) version of myself, the "Maidar Valor" which i will talk about it later.
+### TO BE CHANGED
 <!--
-**MaidarVAlor/MaidarVAlor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--!>
